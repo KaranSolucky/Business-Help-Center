@@ -1,0 +1,28 @@
+.header__Container {
+    background-color: #355797;
+    padding: 15px 20px;
+    box-sizing: border-box;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__leftSide {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__Content {
+    padding-left: 15px;
+    border-left: 1px solid #ffffff;
+}
+
+.header__Text {
+    font-size: 14px;
+    color: #ffffff;
+    margin: 0px;
+}

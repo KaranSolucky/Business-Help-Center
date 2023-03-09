@@ -1,0 +1,32 @@
+.conformation__Container {
+  background-color: #fff;
+  padding: 15px;
+}
+.Authentication__Message {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #000000;
+}
+.code__Message {
+  color: #9b9595;
+  font-size: 14px;
+}
+.generator__Meaasge {
+  margin: 0px 5px;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #000000;
+}
+.needHelpAndContinueContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.needHelpMessage {
+  color: #4a80cc;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
